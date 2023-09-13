@@ -14,8 +14,7 @@ The main purpose of the project was to -
 Appropriate visaulizations were done in Tableau for analysis, and a web page front end was created using Flask, where the pickled version of trained model was used.
 
 ![Sample Visualization 1](https://github.com/KshitijaSAPatel/311-Complaint-Resolution-Time-Prediction/blob/main/Images/Viz2.png)
-![Sample Visualization 2](https://github.com/KshitijaSAPatel/311-Complaint-Resolution-Time-Prediction/blob/main/Images/Viz1.png)
-
+![Sample Visualization 2](https://github.com/tanishkapatel/Data-Engineering-on-NYC-311-data/blob/main/Viz1.png)
 ![Front End](https://github.com/KshitijaSAPatel/311-Complaint-Resolution-Time-Prediction/blob/main/Images/FrontEnd.png)
 
 ## Technologies used:
