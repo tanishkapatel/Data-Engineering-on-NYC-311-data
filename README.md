@@ -1,6 +1,5 @@
 # 311-Complaint-Resolution-Time-Prediction
 
-This folder contains one part of the semester long project done for the Big Data course taught by Prof. Juan Rodriguez.
 
 ## Project Statement and Flow
 
